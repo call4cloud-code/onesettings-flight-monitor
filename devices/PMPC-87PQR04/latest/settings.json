@@ -1372,8 +1372,8 @@
         "SourceFile":  "SCCInstallService.json",
         "QueryUrl":  "/settings/v3.0/SCC/InstallService",
         "SettingName":  "PRESEARCHUPDATEPACKAGEENABLED",
-        "ValueHash":  "391552c099c101b131feaf24c5795a6a15bc8ec82015424e0d2b4274a369a0bf",
-        "ValuePreview":  "\"1\""
+        "ValueHash":  "98089e6d36f78e9766c9ea34d5acb3611f3a92cd81c5eb102095d924ffc7d08b",
+        "ValuePreview":  "\"0\""
     },
     {
         "Identity":  "SCCInstallService.json|PRODUCTCATALOGURL",
