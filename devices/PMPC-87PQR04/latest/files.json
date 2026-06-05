@@ -1,0 +1,254 @@
+﻿[
+    {
+        "Identity":  "AppArchiving.json",
+        "RelativePath":  "AppArchiving.json",
+        "Length":  207,
+        "LastWriteTimeUtc":  "2024-06-01T14:43:56.1011218Z",
+        "Sha256":  "1c9cf3d438a2d53666c94a37ac0d7b02838784daf084d8cfed135f96054ce29f"
+    },
+    {
+        "Identity":  "ASAP_CloudPolicy.json",
+        "RelativePath":  "ASAP_CloudPolicy.json",
+        "Length":  2285,
+        "LastWriteTimeUtc":  "2026-05-20T08:40:27.8857555Z",
+        "Sha256":  "59b5099c4ec13832aa85697de2224a0cf5ce412f02a62312bac52398f38e58ee"
+    },
+    {
+        "Identity":  "config.json",
+        "RelativePath":  "config.json",
+        "Length":  75090,
+        "LastWriteTimeUtc":  "2026-04-17T00:03:34.1327755Z",
+        "Sha256":  "ef74bd22f4e2ab6e643599778b4069b140f4d901d8be7126432e56f0166bf99a"
+    },
+    {
+        "Identity":  "CortanaUWP.json",
+        "RelativePath":  "CortanaUWP.json",
+        "Length":  259,
+        "LastWriteTimeUtc":  "2024-06-01T14:43:57.4666302Z",
+        "Sha256":  "027ba2f97a5d5e4076ac7cda10498a4c6950095ad8cbefee46c2a1c7e6e5d0cf"
+    },
+    {
+        "Identity":  "CTAC.json",
+        "RelativePath":  "CTAC.json",
+        "Length":  125830,
+        "LastWriteTimeUtc":  "2026-05-28T06:36:17.4991043Z",
+        "Sha256":  "ff85f96a15be37224b7394ac4d99f4826086594ac296a6d2025952b5dc8ab246"
+    },
+    {
+        "Identity":  "DBUpdateBL.json",
+        "RelativePath":  "DBUpdateBL.json",
+        "Length":  898,
+        "LastWriteTimeUtc":  "2026-06-04T22:19:57.4267596Z",
+        "Sha256":  "169871f287943ed09cd3aecea18189e404cc436ea68302100eb19b16a6105604"
+    },
+    {
+        "Identity":  "DirectXDbVersion.json",
+        "RelativePath":  "DirectXDbVersion.json",
+        "Length":  366,
+        "LastWriteTimeUtc":  "2026-05-10T08:49:21.1853066Z",
+        "Sha256":  "e970d25e806c97e05d70db4063f73723f25cc921e05792a90dbfdbeadf19824d"
+    },
+    {
+        "Identity":  "DSTTZSYNC.json",
+        "RelativePath":  "DSTTZSYNC.json",
+        "Length":  2511,
+        "LastWriteTimeUtc":  "2025-07-15T19:21:11.3695426Z",
+        "Sha256":  "889ad3d94fa99f8b26dd97fcb82ab1d9f9fed1e9049ade2d0c36363b56968fe7"
+    },
+    {
+        "Identity":  "EcoScoreConfig.json",
+        "RelativePath":  "EcoScoreConfig.json",
+        "Length":  93,
+        "LastWriteTimeUtc":  "2024-06-28T06:53:17.8762199Z",
+        "Sha256":  "17734d208a9c9a1453d85b0c78da4d3f77932ce253fe512ef1878f73138e2bca"
+    },
+    {
+        "Identity":  "FeatureConfig.bak.json",
+        "RelativePath":  "FeatureConfig.bak.json",
+        "Length":  51510,
+        "LastWriteTimeUtc":  "2026-06-03T01:43:26.3581182Z",
+        "Sha256":  "3255807fced9d81e67d7e712da090e3350f18bfe055b7399891d19d4071270a5"
+    },
+    {
+        "Identity":  "FeatureConfig.json",
+        "RelativePath":  "FeatureConfig.json",
+        "Length":  52272,
+        "LastWriteTimeUtc":  "2026-06-05T04:22:42.5744357Z",
+        "Sha256":  "d9efa75ae517fbb664207134b8bdb16ea9cfdc0ca8143fa010636012b4c5d739"
+    },
+    {
+        "Identity":  "FeatureTuning.json",
+        "RelativePath":  "FeatureTuning.json",
+        "Length":  882,
+        "LastWriteTimeUtc":  "2026-05-25T16:51:35.2338819Z",
+        "Sha256":  "1c6ee0baf2f41fd6cce0e286673678f3a292184d18caac6f9fb5d9b4b7cbf9ac"
+    },
+    {
+        "Identity":  "GameInput.json",
+        "RelativePath":  "GameInput.json",
+        "Length":  1920,
+        "LastWriteTimeUtc":  "2026-05-16T01:15:50.5422385Z",
+        "Sha256":  "96cccdf887ae53b44541deaff125a7605875c23953aa0adc32a933537a2ee6ce"
+    },
+    {
+        "Identity":  "GS.json",
+        "RelativePath":  "GS.json",
+        "Length":  428,
+        "LastWriteTimeUtc":  "2024-06-01T18:52:56.6991949Z",
+        "Sha256":  "84b64409827883ea4d322677b702c583e5d41f10676d402183253f67c2cc1a60"
+    },
+    {
+        "Identity":  "IDSPCA.json",
+        "RelativePath":  "IDSPCA.json",
+        "Length":  46,
+        "LastWriteTimeUtc":  "2024-11-13T08:15:39.5702305Z",
+        "Sha256":  "b55a61fc1bc6b5cf53638ce66352e377c3fd4976c9922017c752a406e8c3ca1e"
+    },
+    {
+        "Identity":  "IrisClient.json",
+        "RelativePath":  "IrisClient.json",
+        "Length":  48,
+        "LastWriteTimeUtc":  "2026-02-05T18:35:42.5850754Z",
+        "Sha256":  "fe72caad89a4e193d89cd1aea45f82c4b79c061212257bc3f8d03af3fb20373a"
+    },
+    {
+        "Identity":  "MicrosoftStore.json",
+        "RelativePath":  "MicrosoftStore.json",
+        "Length":  776,
+        "LastWriteTimeUtc":  "2026-06-02T15:31:55.0670389Z",
+        "Sha256":  "db63d0df7dcf904d4247f608626e18cf1406ee3a37504564a2a4d53f531f190e"
+    },
+    {
+        "Identity":  "NarratorScriptingPayload.json",
+        "RelativePath":  "NarratorScriptingPayload.json",
+        "Length":  322,
+        "LastWriteTimeUtc":  "2025-11-14T04:24:38.0860958Z",
+        "Sha256":  "530eea7fc0f60f0881e91da354948703f52e439b2d53a901988836fdb0f155d6"
+    },
+    {
+        "Identity":  "OpenWithStoreOptions.json",
+        "RelativePath":  "OpenWithStoreOptions.json",
+        "Length":  18450,
+        "LastWriteTimeUtc":  "2025-10-16T06:31:03.3751218Z",
+        "Sha256":  "1d796a12b26865c812bd8b764071950f10514ca46b5bd86e2c18f372ee0737fb"
+    },
+    {
+        "Identity":  "RecycleAndTradeInConfig.json",
+        "RelativePath":  "RecycleAndTradeInConfig.json",
+        "Length":  135,
+        "LastWriteTimeUtc":  "2025-09-13T11:22:44.1249405Z",
+        "Sha256":  "e4cf544a4b6cc1b9f2dc80aeb1d4e10310da3104ecfb8ac48ae27af8a894587f"
+    },
+    {
+        "Identity":  "RUXIM.json",
+        "RelativePath":  "RUXIM.json",
+        "Length":  39,
+        "LastWriteTimeUtc":  "2025-07-13T12:10:22.4892986Z",
+        "Sha256":  "4d0edc5211c7d140f98ad404535057c0e0d2b2ac1c28b0035b7e78f1e1ba3275"
+    },
+    {
+        "Identity":  "SCCInstallService.json",
+        "RelativePath":  "SCCInstallService.json",
+        "Length":  7276,
+        "LastWriteTimeUtc":  "2026-06-02T15:32:02.5540556Z",
+        "Sha256":  "091b47bc6702a5e4381074e2a97bc341f0996b30adc8b61792d92dcd1ed10b07"
+    },
+    {
+        "Identity":  "ServicingSettings.json",
+        "RelativePath":  "ServicingSettings.json",
+        "Length":  43,
+        "LastWriteTimeUtc":  "2024-11-09T10:10:25.6925289Z",
+        "Sha256":  "02bc87d31d354a0547354b5fb4160a0207f7ef368119e3f737eff99e4cdc862e"
+    },
+    {
+        "Identity":  "SmartOptOut.json",
+        "RelativePath":  "SmartOptOut.json",
+        "Length":  45,
+        "LastWriteTimeUtc":  "2024-11-09T10:10:30.1950948Z",
+        "Sha256":  "adeb8b79d478db466733f1413d334ecf2770b324d9863606b1e5021bb80198a4"
+    },
+    {
+        "Identity":  "SpeechToTextPayload.json",
+        "RelativePath":  "SpeechToTextPayload.json",
+        "Length":  4128,
+        "LastWriteTimeUtc":  "2024-11-09T10:10:25.9898546Z",
+        "Sha256":  "09eaad48948dd6bca9b16387d40f3d26baa82c30b8fa18480a9777007aacacbf"
+    },
+    {
+        "Identity":  "StorageGroveler.json",
+        "RelativePath":  "StorageGroveler.json",
+        "Length":  413,
+        "LastWriteTimeUtc":  "2024-06-01T14:44:07.4628525Z",
+        "Sha256":  "ae1ee9500097c706033a45be0ac183ed47dbb509f41f5ab01448755e0c2cfac2"
+    },
+    {
+        "Identity":  "SustainabilityConfig.json",
+        "RelativePath":  "SustainabilityConfig.json",
+        "Length":  3729,
+        "LastWriteTimeUtc":  "2026-06-04T15:52:26.9532771Z",
+        "Sha256":  "70e17069de7c58b9db19bf2c6e5a65f6ce67afd7de1e98659842b41df6a3b522"
+    },
+    {
+        "Identity":  "TaskManager.json",
+        "RelativePath":  "TaskManager.json",
+        "Length":  54,
+        "LastWriteTimeUtc":  "2024-11-09T10:10:26.6503495Z",
+        "Sha256":  "64be01a73d6d043579b49f1dd140be34695ee95c1f241474aa23dc63f4078322"
+    },
+    {
+        "Identity":  "TextToSpeechPayload.json",
+        "RelativePath":  "TextToSpeechPayload.json",
+        "Length":  4781,
+        "LastWriteTimeUtc":  "2026-01-31T12:19:36.8377744Z",
+        "Sha256":  "dd9803fd49d0409bb90d81dcb1a63d5b94eeccaab4c1f499f78cd4eb69cede9c"
+    },
+    {
+        "Identity":  "TroubleshootingSvc.json",
+        "RelativePath":  "TroubleshootingSvc.json",
+        "Length":  53,
+        "LastWriteTimeUtc":  "2024-11-09T10:10:21.8682049Z",
+        "Sha256":  "c214c5087e44ce19f6f55767392c61f8419fec896cf1a5728b06005fe9c83f9f"
+    },
+    {
+        "Identity":  "UnexpectedCodepathLogging.json",
+        "RelativePath":  "UnexpectedCodepathLogging.json",
+        "Length":  422,
+        "LastWriteTimeUtc":  "2024-11-09T10:10:27.2975778Z",
+        "Sha256":  "0028506c23e8c23af2ccf4e6da41a80bb290ff5ff08c7ee7b5c0df61a5bfe9ae"
+    },
+    {
+        "Identity":  "UsoSettings.json",
+        "RelativePath":  "UsoSettings.json",
+        "Length":  1359,
+        "LastWriteTimeUtc":  "2026-06-05T00:22:08.0014918Z",
+        "Sha256":  "0250acdb7e607052647988eff546d7627cce9c51b56e900d4f530537c0bedc73"
+    },
+    {
+        "Identity":  "UusSettings.json",
+        "RelativePath":  "UusSettings.json",
+        "Length":  134,
+        "LastWriteTimeUtc":  "2024-11-09T10:10:27.5639606Z",
+        "Sha256":  "cb053dc4108b6ae76d8353a306e51b12839545c196da5dc3718c82aebb2cd89e"
+    },
+    {
+        "Identity":  "WaaSAssessmentSettings.json",
+        "RelativePath":  "WaaSAssessmentSettings.json",
+        "Length":  2135,
+        "LastWriteTimeUtc":  "2026-05-27T11:17:30.7324606Z",
+        "Sha256":  "5e7239acdc9f53416dd4bb6615967f067f81d5aefc91ba5ace36e043ae6608d2"
+    },
+    {
+        "Identity":  "WhesvcExtendedSettings.json",
+        "RelativePath":  "WhesvcExtendedSettings.json",
+        "Length":  136,
+        "LastWriteTimeUtc":  "2026-06-03T16:34:23.3007226Z",
+        "Sha256":  "19c7f0eadf0508157ab795a5b0b21ae84bb2b48267e9caf0f62184e976b1e574"
+    },
+    {
+        "Identity":  "WhesvcModuleSettings.json",
+        "RelativePath":  "WhesvcModuleSettings.json",
+        "Length":  684,
+        "LastWriteTimeUtc":  "2026-03-31T23:30:15.3277309Z",
+        "Sha256":  "2510329ce6500cd80bd0e6232bd8848145a197725f2583d743927aa3905175dd"
+    }
+]
