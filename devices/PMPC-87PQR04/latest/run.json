@@ -1,5 +1,5 @@
 ﻿{
-    "StampUtc":  "2026-06-05T11-34-31Z",
+    "StampUtc":  "2026-06-05T11-47-06Z",
     "DeviceName":  "PMPC-87PQR04",
     "OneSettingsPath":  "C:\\ProgramData\\Microsoft\\Windows\\OneSettings",
     "RepositoryPath":  "c:\\temp\\monitor",
@@ -31,7 +31,9 @@
                    "ChangedTuning":  0,
                    "AddedSettings":  0,
                    "RemovedSettings":  0,
-                   "ChangedSettings":  0,
-                   "ChangedFiles":  0
+                   "ChangedSettings":  1,
+                   "AddedFiles":  0,
+                   "RemovedFiles":  0,
+                   "ChangedFiles":  1
                }
 }
