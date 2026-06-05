@@ -1,7 +1,7 @@
 ﻿# OneSettings Flight Monitor
 
 Device: PMPC-87PQR04
-Snapshot UTC: 2026-06-05T11-47-06Z
+Snapshot UTC: 2026-06-05T11-53-38Z
 OS build: 26200.8390
 Display version: 25H2
 
@@ -39,7 +39,7 @@ None
 ## Generic setting changes
 | Source | Setting | Previous hash | Current hash | Current preview |
 | --- | --- | --- | --- | --- |
-| SCCInstallService.json | PRESEARCHUPDATEPACKAGEENABLED | 391552c099c1 | 98089e6d36f7 | "0" |
+| SCCInstallService.json | PRESEARCHUPDATEPACKAGEENABLED | 98089e6d36f7 | 391552c099c1 | "1" |
 
 ## All OneSettings JSON files
 
@@ -66,7 +66,7 @@ None
 | OpenWithStoreOptions.json | 18450 | 2025-10-16T06:31:03.3751218Z | 1d796a12b268 |
 | RecycleAndTradeInConfig.json | 135 | 2025-09-13T11:22:44.1249405Z | e4cf544a4b6c |
 | RUXIM.json | 39 | 2025-07-13T12:10:22.4892986Z | 4d0edc5211c7 |
-| SCCInstallService.json | 7276 | 2026-06-05T11:46:45.4575162Z | 09851e360c68 |
+| SCCInstallService.json | 7276 | 2026-06-05T11:47:38.4077283Z | 091b47bc6702 |
 | ServicingSettings.json | 43 | 2024-11-09T10:10:25.6925289Z | 02bc87d31d35 |
 | SmartOptOut.json | 45 | 2024-11-09T10:10:30.1950948Z | adeb8b79d478 |
 | SpeechToTextPayload.json | 4128 | 2024-11-09T10:10:25.9898546Z | 09eaad48948d |
