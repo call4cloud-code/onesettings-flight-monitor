@@ -1,5 +1,5 @@
 ﻿{
-    "StampUtc":  "2026-06-05T11-53-38Z",
+    "StampUtc":  "2026-06-06T07-00-07Z",
     "DeviceName":  "PMPC-87PQR04",
     "OneSettingsPath":  "C:\\ProgramData\\Microsoft\\Windows\\OneSettings",
     "RepositoryPath":  "c:\\temp\\monitor",
@@ -19,11 +19,11 @@
            },
     "Counts":  {
                    "JsonFiles":  36,
-                   "FeatureRecords":  477,
+                   "FeatureRecords":  481,
                    "FeatureTuningRecords":  1,
                    "GenericSettings":  289,
                    "ParseErrors":  0,
-                   "AddedFeatures":  0,
+                   "AddedFeatures":  4,
                    "RemovedFeatures":  0,
                    "ChangedFeatures":  0,
                    "AddedTuning":  0,
@@ -31,9 +31,9 @@
                    "ChangedTuning":  0,
                    "AddedSettings":  0,
                    "RemovedSettings":  0,
-                   "ChangedSettings":  1,
+                   "ChangedSettings":  0,
                    "AddedFiles":  0,
                    "RemovedFiles":  0,
-                   "ChangedFiles":  1
+                   "ChangedFiles":  2
                }
 }
