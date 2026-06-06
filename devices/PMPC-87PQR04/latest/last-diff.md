@@ -1,7 +1,7 @@
 ﻿# OneSettings Flight Monitor
 
 Device: PMPC-87PQR04
-Snapshot UTC: 2026-06-05T11-53-38Z
+Snapshot UTC: 2026-06-06T07-00-07Z
 OS build: 26200.8390
 Display version: 25H2
 
@@ -10,13 +10,18 @@ Display version: 25H2
 | Item | Count |
 | --- | ---: |
 | JSON files | 36 |
-| FeatureConfig records | 477 |
+| FeatureConfig records | 481 |
 | FeatureTuning records | 1 |
 | Generic settings | 289 |
 | Parse errors | 0 |
 
 ## FeatureConfig added
-None
+| FeatureId | Source | PayloadKey | Options | Variant | Ct | Start | Expire |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 39543558 | FeatureConfig.bak.json | PAYLOAD_62580870_1 | 2 | 0 | 3 |  |  |
+| 61276672 | FeatureConfig.json | PAYLOAD_62597206_1 | 2 | 0 | 3 |  |  |
+| 60192063 | FeatureConfig.bak.json | PAYLOAD_62581397_1 | 2 | 0 | 3 |  |  |
+| 58638708 | FeatureConfig.bak.json | PAYLOAD_62580927_1 | 2 | 0 | 3 |  |  |
 
 ## FeatureConfig removed
 None
@@ -37,9 +42,7 @@ None
 None
 
 ## Generic setting changes
-| Source | Setting | Previous hash | Current hash | Current preview |
-| --- | --- | --- | --- | --- |
-| SCCInstallService.json | PRESEARCHUPDATEPACKAGEENABLED | 98089e6d36f7 | 391552c099c1 | "1" |
+None
 
 ## All OneSettings JSON files
 
@@ -54,8 +57,8 @@ None
 | DirectXDbVersion.json | 366 | 2026-05-10T08:49:21.1853066Z | e970d25e806c |
 | DSTTZSYNC.json | 2511 | 2025-07-15T19:21:11.3695426Z | 889ad3d94fa9 |
 | EcoScoreConfig.json | 93 | 2024-06-28T06:53:17.8762199Z | 17734d208a9c |
-| FeatureConfig.bak.json | 51510 | 2026-06-03T01:43:26.3581182Z | 3255807fced9 |
-| FeatureConfig.json | 52272 | 2026-06-05T04:22:42.5744357Z | d9efa75ae517 |
+| FeatureConfig.bak.json | 52272 | 2026-06-05T04:22:42.5744357Z | d9efa75ae517 |
+| FeatureConfig.json | 52526 | 2026-06-05T22:35:35.9873322Z | 7f63ffbe53f2 |
 | FeatureTuning.json | 882 | 2026-05-25T16:51:35.2338819Z | 1c6ee0baf2f4 |
 | GameInput.json | 1920 | 2026-05-16T01:15:50.5422385Z | 96cccdf887ae |
 | GS.json | 428 | 2024-06-01T18:52:56.6991949Z | 84b644098278 |
@@ -85,6 +88,7 @@ None
 ## File hash changes
 | Change | File |
 | --- | --- |
-| Changed | SCCInstallService.json |
+| Changed | FeatureConfig.bak.json |
+| Changed | FeatureConfig.json |
 
 
