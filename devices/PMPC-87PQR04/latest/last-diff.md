@@ -1,7 +1,7 @@
 ﻿# OneSettings Flight Monitor
 
 Device: PMPC-87PQR04
-Snapshot UTC: 2026-06-06T07-00-07Z
+Snapshot UTC: 2026-06-07T07-00-14Z
 OS build: 26200.8390
 Display version: 25H2
 
@@ -16,12 +16,7 @@ Display version: 25H2
 | Parse errors | 0 |
 
 ## FeatureConfig added
-| FeatureId | Source | PayloadKey | Options | Variant | Ct | Start | Expire |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 39543558 | FeatureConfig.bak.json | PAYLOAD_62580870_1 | 2 | 0 | 3 |  |  |
-| 61276672 | FeatureConfig.json | PAYLOAD_62597206_1 | 2 | 0 | 3 |  |  |
-| 60192063 | FeatureConfig.bak.json | PAYLOAD_62581397_1 | 2 | 0 | 3 |  |  |
-| 58638708 | FeatureConfig.bak.json | PAYLOAD_62580927_1 | 2 | 0 | 3 |  |  |
+None
 
 ## FeatureConfig removed
 None
@@ -42,7 +37,10 @@ None
 None
 
 ## Generic setting changes
-None
+| Source | Setting | Previous hash | Current hash | Current preview |
+| --- | --- | --- | --- | --- |
+| DBUpdateBL.json | SETTINGS | bfe53aef892d | be6b5b779f34 | {"DBBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","DBBlockListFreshWindowInHours":72,"DBBlockListRebootAllowed":true,"KEKBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","KEKBlockListFreshWindowInHours":72,"KEKBlockListRebootAllowed":true,"3PUEFIBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","3PUEFIBlockListFreshWindowInHours":72,"3PUEFIBlockListRebootAllowed":true,"3POROMBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","3POROMBlockListFreshWindowInHours":72,"3POROMBlockListRebootAllowed":true,"BFSVCBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","BFSVCBlockListFreshWindowInHours":72,"BFSVCBlockListRebootAllowed":true,"TestKeyRollingBlockListLastUpdatedTime":"2026-0... |
+| SustainabilityConfig.json | GRIDINTENSITY | 5c0489030ddb | 01b2e0334f89 | {"zone":"NEXUS_NL","expirationDate":"2026-06-12T00:00:00","zoneExpirationDays":30,"confidence":1.0,"apiVersion":1,"timespan":60,"dailyIntensityList":[{"date":"2026-06-05T00:00:00","carbonIntensity":[1.0,0.92997858672376921,0.799785867237687,0.8002141327623129,0.85653104925053525,0.80128479657387608,0.8087794432548181,0.72976445396145662,0.59250535331905774,0.30556745182012818,0.12869379014989313,0.076445396145610148,0.00021413276231269888,0.0,0.59764453961456121,0.58222698072805146,0.50813704496788015,0.60064239828693788,0.695503211991435,0.745610278372591,0.6856531049250536,0.67665952890792269,0.48608137044967886,0.674304068522484]},{"date":"2026-06-06T00:00:00","carbonIntensity":[0.9936964... |
 
 ## All OneSettings JSON files
 
@@ -53,7 +51,7 @@ None
 | config.json | 75090 | 2026-04-17T00:03:34.1327755Z | ef74bd22f4e2 |
 | CortanaUWP.json | 259 | 2024-06-01T14:43:57.4666302Z | 027ba2f97a5d |
 | CTAC.json | 125830 | 2026-05-28T06:36:17.4991043Z | ff85f96a15be |
-| DBUpdateBL.json | 898 | 2026-06-04T22:19:57.4267596Z | 169871f28794 |
+| DBUpdateBL.json | 898 | 2026-06-06T11:24:38.2167997Z | 5d2556ef3f61 |
 | DirectXDbVersion.json | 366 | 2026-05-10T08:49:21.1853066Z | e970d25e806c |
 | DSTTZSYNC.json | 2511 | 2025-07-15T19:21:11.3695426Z | 889ad3d94fa9 |
 | EcoScoreConfig.json | 93 | 2024-06-28T06:53:17.8762199Z | 17734d208a9c |
@@ -74,7 +72,7 @@ None
 | SmartOptOut.json | 45 | 2024-11-09T10:10:30.1950948Z | adeb8b79d478 |
 | SpeechToTextPayload.json | 4128 | 2024-11-09T10:10:25.9898546Z | 09eaad48948d |
 | StorageGroveler.json | 413 | 2024-06-01T14:44:07.4628525Z | ae1ee9500097 |
-| SustainabilityConfig.json | 3729 | 2026-06-04T15:52:26.9532771Z | 70e17069de7c |
+| SustainabilityConfig.json | 3731 | 2026-06-06T16:24:57.1902701Z | e3ab0b99336c |
 | TaskManager.json | 54 | 2024-11-09T10:10:26.6503495Z | 64be01a73d6d |
 | TextToSpeechPayload.json | 4781 | 2026-01-31T12:19:36.8377744Z | dd9803fd49d0 |
 | TroubleshootingSvc.json | 53 | 2024-11-09T10:10:21.8682049Z | c214c5087e44 |
@@ -88,7 +86,7 @@ None
 ## File hash changes
 | Change | File |
 | --- | --- |
-| Changed | FeatureConfig.bak.json |
-| Changed | FeatureConfig.json |
+| Changed | DBUpdateBL.json |
+| Changed | SustainabilityConfig.json |
 
 
