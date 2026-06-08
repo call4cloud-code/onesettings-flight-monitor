@@ -724,8 +724,8 @@
         "SourceFile":  "DBUpdateBL.json",
         "QueryUrl":  "/settings/v3.0/WSD-OSSEC/DB2023RolloutBlockList",
         "SettingName":  "SETTINGS",
-        "ValueHash":  "be6b5b779f345e78e7c1b806f671d4292410a5db66935289a6b4254d0532c80e",
-        "ValuePreview":  "{\"DBBlockListLastUpdatedTime\":\"2026-06-04T06:00:00.001Z\",\"DBBlockListFreshWindowInHours\":72,\"DBBlockListRebootAllowed\":true,\"KEKBlockListLastUpdatedTime\":\"2026-06-04T06:00:00.001Z\",\"KEKBlockListFreshWindowInHours\":72,\"KEKBlockListRebootAllowed\":true,\"3PUEFIBlockListLastUpdatedTime\":\"2026-06-04T06:00:00.001Z\",\"3PUEFIBlockListFreshWindowInHours\":72,\"3PUEFIBlockListRebootAllowed\":true,\"3POROMBlockListLastUpdatedTime\":\"2026-06-04T06:00:00.001Z\",\"3POROMBlockListFreshWindowInHours\":72,\"3POROMBlockListRebootAllowed\":true,\"BFSVCBlockListLastUpdatedTime\":\"2026-06-04T06:00:00.001Z\",\"BFSVCBlockListFreshWindowInHours\":72,\"BFSVCBlockListRebootAllowed\":true,\"TestKeyRollingBlockListLastUpdatedTime\":\"2026-0..."
+        "ValueHash":  "f4a0766ae8befee20e4ef66c21454fee8f6f1fd171adebb420a7dbf1e303a0e3",
+        "ValuePreview":  "{\"DBBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"DBBlockListFreshWindowInHours\":72,\"DBBlockListRebootAllowed\":true,\"KEKBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"KEKBlockListFreshWindowInHours\":72,\"KEKBlockListRebootAllowed\":true,\"3PUEFIBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"3PUEFIBlockListFreshWindowInHours\":72,\"3PUEFIBlockListRebootAllowed\":true,\"3POROMBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"3POROMBlockListFreshWindowInHours\":72,\"3POROMBlockListRebootAllowed\":true,\"BFSVCBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"BFSVCBlockListFreshWindowInHours\":72,\"BFSVCBlockListRebootAllowed\":true,\"TestKeyRollingBlockListLastUpdatedTime\":\"2026-0..."
     },
     {
         "Identity":  "DirectXDbVersion.json|HASHSTRING",
@@ -1732,8 +1732,8 @@
         "SourceFile":  "SustainabilityConfig.json",
         "QueryUrl":  "/settings/v3.0/Sustainability/CarbonAwareOS",
         "SettingName":  "GRIDINTENSITY",
-        "ValueHash":  "01b2e0334f89b44f9795e75ea9ca348188867d50dd22f63ff9b0e8e1b5d6f6fd",
-        "ValuePreview":  "{\"zone\":\"NEXUS_NL\",\"expirationDate\":\"2026-06-12T00:00:00\",\"zoneExpirationDays\":30,\"confidence\":1.0,\"apiVersion\":1,\"timespan\":60,\"dailyIntensityList\":[{\"date\":\"2026-06-05T00:00:00\",\"carbonIntensity\":[1.0,0.92997858672376921,0.799785867237687,0.8002141327623129,0.85653104925053525,0.80128479657387608,0.8087794432548181,0.72976445396145662,0.59250535331905774,0.30556745182012818,0.12869379014989313,0.076445396145610148,0.00021413276231269888,0.0,0.59764453961456121,0.58222698072805146,0.50813704496788015,0.60064239828693788,0.695503211991435,0.745610278372591,0.6856531049250536,0.67665952890792269,0.48608137044967886,0.674304068522484]},{\"date\":\"2026-06-06T00:00:00\",\"carbonIntensity\":[0.9936964..."
+        "ValueHash":  "1b100797f8410e55ecc11e17724b8a7c8899c5e9ef46df4626b02dca001ed17c",
+        "ValuePreview":  "{\"zone\":\"NEXUS_NL\",\"expirationDate\":\"2026-06-14T00:00:00\",\"zoneExpirationDays\":30,\"confidence\":1.0,\"apiVersion\":1,\"timespan\":60,\"dailyIntensityList\":[{\"date\":\"2026-06-07T00:00:00\",\"carbonIntensity\":[1.0,0.96086917320349841,0.80623929312054821,0.77928049770083851,0.48994680371472366,0.10287620593273829,0.084753403660625753,0.088450094671355159,0.083491118925254709,0.016139211973672345,0.015327743215219538,0.0,0.0067622396537733338,0.11757280678027229,0.21819493282841945,0.31629248940582461,0.69299431971869074,0.828870255161843,0.83635380037868545,0.84573077269858454,0.84960779010008114,0.85582905058155279,0.76900189342710312,0.87512397439365253]},{\"date\":\"2026-06-08T00:00:00\",\"carbonIntensity..."
     },
     {
         "Identity":  "TextToSpeechPayload.json|VOICELIST",
