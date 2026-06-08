@@ -1,7 +1,7 @@
 ﻿# OneSettings Flight Monitor
 
 Device: PMPC-87PQR04
-Snapshot UTC: 2026-06-07T07-00-14Z
+Snapshot UTC: 2026-06-08T07-00-09Z
 OS build: 26200.8390
 Display version: 25H2
 
@@ -39,8 +39,8 @@ None
 ## Generic setting changes
 | Source | Setting | Previous hash | Current hash | Current preview |
 | --- | --- | --- | --- | --- |
-| DBUpdateBL.json | SETTINGS | bfe53aef892d | be6b5b779f34 | {"DBBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","DBBlockListFreshWindowInHours":72,"DBBlockListRebootAllowed":true,"KEKBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","KEKBlockListFreshWindowInHours":72,"KEKBlockListRebootAllowed":true,"3PUEFIBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","3PUEFIBlockListFreshWindowInHours":72,"3PUEFIBlockListRebootAllowed":true,"3POROMBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","3POROMBlockListFreshWindowInHours":72,"3POROMBlockListRebootAllowed":true,"BFSVCBlockListLastUpdatedTime":"2026-06-04T06:00:00.001Z","BFSVCBlockListFreshWindowInHours":72,"BFSVCBlockListRebootAllowed":true,"TestKeyRollingBlockListLastUpdatedTime":"2026-0... |
-| SustainabilityConfig.json | GRIDINTENSITY | 5c0489030ddb | 01b2e0334f89 | {"zone":"NEXUS_NL","expirationDate":"2026-06-12T00:00:00","zoneExpirationDays":30,"confidence":1.0,"apiVersion":1,"timespan":60,"dailyIntensityList":[{"date":"2026-06-05T00:00:00","carbonIntensity":[1.0,0.92997858672376921,0.799785867237687,0.8002141327623129,0.85653104925053525,0.80128479657387608,0.8087794432548181,0.72976445396145662,0.59250535331905774,0.30556745182012818,0.12869379014989313,0.076445396145610148,0.00021413276231269888,0.0,0.59764453961456121,0.58222698072805146,0.50813704496788015,0.60064239828693788,0.695503211991435,0.745610278372591,0.6856531049250536,0.67665952890792269,0.48608137044967886,0.674304068522484]},{"date":"2026-06-06T00:00:00","carbonIntensity":[0.9936964... |
+| DBUpdateBL.json | SETTINGS | be6b5b779f34 | f4a0766ae8be | {"DBBlockListLastUpdatedTime":"2026-06-06T09:00:00.001Z","DBBlockListFreshWindowInHours":72,"DBBlockListRebootAllowed":true,"KEKBlockListLastUpdatedTime":"2026-06-06T09:00:00.001Z","KEKBlockListFreshWindowInHours":72,"KEKBlockListRebootAllowed":true,"3PUEFIBlockListLastUpdatedTime":"2026-06-06T09:00:00.001Z","3PUEFIBlockListFreshWindowInHours":72,"3PUEFIBlockListRebootAllowed":true,"3POROMBlockListLastUpdatedTime":"2026-06-06T09:00:00.001Z","3POROMBlockListFreshWindowInHours":72,"3POROMBlockListRebootAllowed":true,"BFSVCBlockListLastUpdatedTime":"2026-06-06T09:00:00.001Z","BFSVCBlockListFreshWindowInHours":72,"BFSVCBlockListRebootAllowed":true,"TestKeyRollingBlockListLastUpdatedTime":"2026-0... |
+| SustainabilityConfig.json | GRIDINTENSITY | 01b2e0334f89 | 1b100797f841 | {"zone":"NEXUS_NL","expirationDate":"2026-06-14T00:00:00","zoneExpirationDays":30,"confidence":1.0,"apiVersion":1,"timespan":60,"dailyIntensityList":[{"date":"2026-06-07T00:00:00","carbonIntensity":[1.0,0.96086917320349841,0.80623929312054821,0.77928049770083851,0.48994680371472366,0.10287620593273829,0.084753403660625753,0.088450094671355159,0.083491118925254709,0.016139211973672345,0.015327743215219538,0.0,0.0067622396537733338,0.11757280678027229,0.21819493282841945,0.31629248940582461,0.69299431971869074,0.828870255161843,0.83635380037868545,0.84573077269858454,0.84960779010008114,0.85582905058155279,0.76900189342710312,0.87512397439365253]},{"date":"2026-06-08T00:00:00","carbonIntensity... |
 
 ## All OneSettings JSON files
 
@@ -51,7 +51,7 @@ None
 | config.json | 75090 | 2026-04-17T00:03:34.1327755Z | ef74bd22f4e2 |
 | CortanaUWP.json | 259 | 2024-06-01T14:43:57.4666302Z | 027ba2f97a5d |
 | CTAC.json | 125830 | 2026-05-28T06:36:17.4991043Z | ff85f96a15be |
-| DBUpdateBL.json | 898 | 2026-06-06T11:24:38.2167997Z | 5d2556ef3f61 |
+| DBUpdateBL.json | 898 | 2026-06-07T16:13:00.9326346Z | 3f862c885bd2 |
 | DirectXDbVersion.json | 366 | 2026-05-10T08:49:21.1853066Z | e970d25e806c |
 | DSTTZSYNC.json | 2511 | 2025-07-15T19:21:11.3695426Z | 889ad3d94fa9 |
 | EcoScoreConfig.json | 93 | 2024-06-28T06:53:17.8762199Z | 17734d208a9c |
@@ -72,7 +72,7 @@ None
 | SmartOptOut.json | 45 | 2024-11-09T10:10:30.1950948Z | adeb8b79d478 |
 | SpeechToTextPayload.json | 4128 | 2024-11-09T10:10:25.9898546Z | 09eaad48948d |
 | StorageGroveler.json | 413 | 2024-06-01T14:44:07.4628525Z | ae1ee9500097 |
-| SustainabilityConfig.json | 3731 | 2026-06-06T16:24:57.1902701Z | e3ab0b99336c |
+| SustainabilityConfig.json | 3744 | 2026-06-07T17:04:57.8930272Z | 59807aad4597 |
 | TaskManager.json | 54 | 2024-11-09T10:10:26.6503495Z | 64be01a73d6d |
 | TextToSpeechPayload.json | 4781 | 2026-01-31T12:19:36.8377744Z | dd9803fd49d0 |
 | TroubleshootingSvc.json | 53 | 2024-11-09T10:10:21.8682049Z | c214c5087e44 |
