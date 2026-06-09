@@ -724,8 +724,8 @@
         "SourceFile":  "DBUpdateBL.json",
         "QueryUrl":  "/settings/v3.0/WSD-OSSEC/DB2023RolloutBlockList",
         "SettingName":  "SETTINGS",
-        "ValueHash":  "f4a0766ae8befee20e4ef66c21454fee8f6f1fd171adebb420a7dbf1e303a0e3",
-        "ValuePreview":  "{\"DBBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"DBBlockListFreshWindowInHours\":72,\"DBBlockListRebootAllowed\":true,\"KEKBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"KEKBlockListFreshWindowInHours\":72,\"KEKBlockListRebootAllowed\":true,\"3PUEFIBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"3PUEFIBlockListFreshWindowInHours\":72,\"3PUEFIBlockListRebootAllowed\":true,\"3POROMBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"3POROMBlockListFreshWindowInHours\":72,\"3POROMBlockListRebootAllowed\":true,\"BFSVCBlockListLastUpdatedTime\":\"2026-06-06T09:00:00.001Z\",\"BFSVCBlockListFreshWindowInHours\":72,\"BFSVCBlockListRebootAllowed\":true,\"TestKeyRollingBlockListLastUpdatedTime\":\"2026-0..."
+        "ValueHash":  "d0f08a18e5491fab79b40a6316a98b2b8f33dd2773abc7ade5cb3e6ae1595174",
+        "ValuePreview":  "{\"DBBlockListLastUpdatedTime\":\"2026-06-07T16:00:00.001Z\",\"DBBlockListFreshWindowInHours\":72,\"DBBlockListRebootAllowed\":true,\"KEKBlockListLastUpdatedTime\":\"2026-06-07T16:00:00.001Z\",\"KEKBlockListFreshWindowInHours\":72,\"KEKBlockListRebootAllowed\":true,\"3PUEFIBlockListLastUpdatedTime\":\"2026-06-07T16:00:00.001Z\",\"3PUEFIBlockListFreshWindowInHours\":72,\"3PUEFIBlockListRebootAllowed\":true,\"3POROMBlockListLastUpdatedTime\":\"2026-06-07T16:00:00.001Z\",\"3POROMBlockListFreshWindowInHours\":72,\"3POROMBlockListRebootAllowed\":true,\"BFSVCBlockListLastUpdatedTime\":\"2026-06-07T16:00:00.001Z\",\"BFSVCBlockListFreshWindowInHours\":72,\"BFSVCBlockListRebootAllowed\":true,\"TestKeyRollingBlockListLastUpdatedTime\":\"2026-0..."
     },
     {
         "Identity":  "DirectXDbVersion.json|HASHSTRING",
@@ -1732,8 +1732,8 @@
         "SourceFile":  "SustainabilityConfig.json",
         "QueryUrl":  "/settings/v3.0/Sustainability/CarbonAwareOS",
         "SettingName":  "GRIDINTENSITY",
-        "ValueHash":  "1b100797f8410e55ecc11e17724b8a7c8899c5e9ef46df4626b02dca001ed17c",
-        "ValuePreview":  "{\"zone\":\"NEXUS_NL\",\"expirationDate\":\"2026-06-14T00:00:00\",\"zoneExpirationDays\":30,\"confidence\":1.0,\"apiVersion\":1,\"timespan\":60,\"dailyIntensityList\":[{\"date\":\"2026-06-07T00:00:00\",\"carbonIntensity\":[1.0,0.96086917320349841,0.80623929312054821,0.77928049770083851,0.48994680371472366,0.10287620593273829,0.084753403660625753,0.088450094671355159,0.083491118925254709,0.016139211973672345,0.015327743215219538,0.0,0.0067622396537733338,0.11757280678027229,0.21819493282841945,0.31629248940582461,0.69299431971869074,0.828870255161843,0.83635380037868545,0.84573077269858454,0.84960779010008114,0.85582905058155279,0.76900189342710312,0.87512397439365253]},{\"date\":\"2026-06-08T00:00:00\",\"carbonIntensity..."
+        "ValueHash":  "69bc6a04594ca77e3d51cbf14ac4e7de9ccef8db70dfb35ad6b81ec3c8466a9a",
+        "ValuePreview":  "{\"zone\":\"NEXUS_NL\",\"expirationDate\":\"2026-06-15T00:00:00\",\"zoneExpirationDays\":30,\"confidence\":1.0,\"apiVersion\":1,\"timespan\":60,\"dailyIntensityList\":[{\"date\":\"2026-06-08T00:00:00\",\"carbonIntensity\":[0.072659391154508993,0.41556576680068935,0.8340034462952326,0.88742102240091936,1.0,0.56375646180356132,0.5002871912693857,0.33630097645031576,0.27914991384261928,0.098793796668581374,0.0,0.058012636415853282,0.10281447443997691,0.13153360137851769,0.19643882825962111,0.26278001148765096,0.4236071223434808,0.61832280298678932,0.82309017805858664,0.7148190695002874,0.61889718552556,0.49655370476737526,0.42762780011487705,0.21280873061458946]},{\"date\":\"2026-06-09T00:00:00\",\"carbonIntensity\":[0.7473..."
     },
     {
         "Identity":  "TextToSpeechPayload.json|VOICELIST",
@@ -1876,8 +1876,8 @@
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "10.0.26200.7627",
-        "ValueHash":  "3ce0a4645f84159a9aa80f851cea8adf3931394a1114b5dbcd6e4b600b6979b7",
-        "ValuePreview":  "\"134128008000000000\""
+        "ValueHash":  "30bae98f12422af15c849c262e077311a3e0113c155cb683744dcf3523513c8e",
+        "ValuePreview":  "\"134054676000000000\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|10.0.26200.7628",
@@ -2004,8 +2004,8 @@
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "10.0.26200.8039",
-        "ValueHash":  "646afaf837d3870568759477069982c2228a8303d8482214efa38d5f94115218",
-        "ValuePreview":  "\"134181684000000000\""
+        "ValueHash":  "4a3649ac35d7491b30ba39cfd74d9bfb56e8561a79dfcff2152ef6430ee00acd",
+        "ValuePreview":  "\"134179020000000000\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|10.0.26200.8106",
@@ -2020,8 +2020,8 @@
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "10.0.26200.8116",
-        "ValueHash":  "b3514b715840c99c71399615b2290ad670210103d895773269484384d8ebaa5c",
-        "ValuePreview":  "\"134187732000000000\""
+        "ValueHash":  "4a3649ac35d7491b30ba39cfd74d9bfb56e8561a79dfcff2152ef6430ee00acd",
+        "ValuePreview":  "\"134179020000000000\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|10.0.26200.8117",
@@ -2084,16 +2084,16 @@
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "10.0.26200.8521",
-        "ValueHash":  "603e5764e94f5b60dfeda8a98866bb5417f357cf19f2f12fd9ed83768b091b9c",
-        "ValuePreview":  "\"134230788000000000\""
+        "ValueHash":  "4a3649ac35d7491b30ba39cfd74d9bfb56e8561a79dfcff2152ef6430ee00acd",
+        "ValuePreview":  "\"134179020000000000\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|10.0.26200.8524",
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "10.0.26200.8524",
-        "ValueHash":  "603e5764e94f5b60dfeda8a98866bb5417f357cf19f2f12fd9ed83768b091b9c",
-        "ValuePreview":  "\"134230788000000000\""
+        "ValueHash":  "4a3649ac35d7491b30ba39cfd74d9bfb56e8561a79dfcff2152ef6430ee00acd",
+        "ValuePreview":  "\"134179020000000000\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|10.0.26200.RTM",
@@ -2116,8 +2116,8 @@
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "CURRENT",
-        "ValueHash":  "3e2f3533fc4e7ad7fb070b3d5b95e9ea8b72b77f2470eaa4d7b223cf8894ea43",
-        "ValuePreview":  "\"10.0.28000.2179\""
+        "ValueHash":  "8e1b7b08e4016440b10ef8732ea2a78076d83dae3f50f45f2025ee90f7c6dd64",
+        "ValuePreview":  "\"10.0.28000.2176\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|DISABLEASSESSMENT",
@@ -2132,8 +2132,8 @@
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "DOSSIERTIMESTAMP",
-        "ValueHash":  "8fabee29cfcac954b04cae14b35b16325f5aba2149725ea6667d805c5981a3ae",
-        "ValuePreview":  "\"134243415071273040\""
+        "ValueHash":  "05f015319980a801dc7f3180b1854983c98b0889f34ddd940d8e8a73128b00c8",
+        "ValuePreview":  "\"134254432854782657\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|IMPACTFEATUREPOLICYHIGH",
@@ -2188,16 +2188,16 @@
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "LATESTBUILDS",
-        "ValueHash":  "9eaca9a0e3db3bc60bb6e15c8f323fd98877ced2dbf46f40487a946c81d40b04",
-        "ValuePreview":  "\"10.0.26200.8390,10.0.26200.8457,10.0.28000.1\""
+        "ValueHash":  "5ce4882f3cf771d9b63517fa72d17a5d7b5522a24c0b98afdcc2a6f8e9a49947",
+        "ValuePreview":  "\"10.0.26200.7979,10.0.26200.8037,10.0.28000.1\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|LATESTSECURITYBUILDS",
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "LATESTSECURITYBUILDS",
-        "ValueHash":  "9eaca9a0e3db3bc60bb6e15c8f323fd98877ced2dbf46f40487a946c81d40b04",
-        "ValuePreview":  "\"10.0.26200.8390,10.0.26200.8457,10.0.28000.1\""
+        "ValueHash":  "5ce4882f3cf771d9b63517fa72d17a5d7b5522a24c0b98afdcc2a6f8e9a49947",
+        "ValuePreview":  "\"10.0.26200.7979,10.0.26200.8037,10.0.28000.1\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|RESTRICTION",
@@ -2220,8 +2220,8 @@
         "SourceFile":  "WaaSAssessmentSettings.json",
         "QueryUrl":  "/settings/v3.0/WSD/WAASASSESSMENT",
         "SettingName":  "UPTODATE",
-        "ValueHash":  "c6162b2431c34643317de4c0b9f2f6a3553d653d4cc531f5efcfb95a55e32f04",
-        "ValuePreview":  "\"10.0.26200.8457\""
+        "ValueHash":  "0039db96bad72341b04ac422b09dfd1e6298c20f7625616691fae39161260f6a",
+        "ValuePreview":  "\"10.0.26200.8037\""
     },
     {
         "Identity":  "WaaSAssessmentSettings.json|0.0.0",
