@@ -38,8 +38,8 @@
         "Identity":  "DBUpdateBL.json",
         "RelativePath":  "DBUpdateBL.json",
         "Length":  898,
-        "LastWriteTimeUtc":  "2026-06-07T16:13:00.9326346Z",
-        "Sha256":  "3f862c885bd2a788d240507e1b5163fdad1fe5fd12ea527aaa9d6674377566b5"
+        "LastWriteTimeUtc":  "2026-06-08T20:02:29.0308015Z",
+        "Sha256":  "250176f41784d3f31eef0da2753ec85ed6a9b751a966c30d62b581e65704ea4b"
     },
     {
         "Identity":  "DirectXDbVersion.json",
@@ -184,9 +184,9 @@
     {
         "Identity":  "SustainabilityConfig.json",
         "RelativePath":  "SustainabilityConfig.json",
-        "Length":  3744,
-        "LastWriteTimeUtc":  "2026-06-07T17:04:57.8930272Z",
-        "Sha256":  "59807aad459711b0c0069d33225a0fba82f1bb1b930ad44fb56c90e1f9458530"
+        "Length":  3727,
+        "LastWriteTimeUtc":  "2026-06-08T17:22:54.7581686Z",
+        "Sha256":  "d99b787f5fc9f1a9bb230b3daabaf11487b2a988b76cca6dc37decc82881f60a"
     },
     {
         "Identity":  "TaskManager.json",
@@ -234,8 +234,8 @@
         "Identity":  "WaaSAssessmentSettings.json",
         "RelativePath":  "WaaSAssessmentSettings.json",
         "Length":  2135,
-        "LastWriteTimeUtc":  "2026-05-27T11:17:30.7324606Z",
-        "Sha256":  "5e7239acdc9f53416dd4bb6615967f067f81d5aefc91ba5ace36e043ae6608d2"
+        "LastWriteTimeUtc":  "2026-06-09T02:40:59.9068560Z",
+        "Sha256":  "d22e768eb5091b1600da368a84dc923a2c4cc238a555f533eebce0039f9eabfa"
     },
     {
         "Identity":  "WhesvcExtendedSettings.json",
