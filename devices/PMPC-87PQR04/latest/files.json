@@ -38,8 +38,8 @@
         "Identity":  "DBUpdateBL.json",
         "RelativePath":  "DBUpdateBL.json",
         "Length":  898,
-        "LastWriteTimeUtc":  "2026-06-08T20:02:29.0308015Z",
-        "Sha256":  "250176f41784d3f31eef0da2753ec85ed6a9b751a966c30d62b581e65704ea4b"
+        "LastWriteTimeUtc":  "2026-06-09T17:39:39.5483337Z",
+        "Sha256":  "15963db131b86082cd720930302dee2f5c819154c8452ac60a75facb77739cf3"
     },
     {
         "Identity":  "DirectXDbVersion.json",
@@ -65,16 +65,16 @@
     {
         "Identity":  "FeatureConfig.bak.json",
         "RelativePath":  "FeatureConfig.bak.json",
-        "Length":  52272,
-        "LastWriteTimeUtc":  "2026-06-05T04:22:42.5744357Z",
-        "Sha256":  "d9efa75ae517fbb664207134b8bdb16ea9cfdc0ca8143fa010636012b4c5d739"
+        "Length":  53034,
+        "LastWriteTimeUtc":  "2026-06-09T20:07:34.7379453Z",
+        "Sha256":  "6f090ff721bfd7fa56d0a97d8832037469f36b5c58ffcd50f1f2bc9462acfc12"
     },
     {
         "Identity":  "FeatureConfig.json",
         "RelativePath":  "FeatureConfig.json",
-        "Length":  52526,
-        "LastWriteTimeUtc":  "2026-06-05T22:35:35.9873322Z",
-        "Sha256":  "7f63ffbe53f266867fd7ff34deb18d16d21b1168082b56422d724350e126da0f"
+        "Length":  53288,
+        "LastWriteTimeUtc":  "2026-06-10T04:19:44.2714870Z",
+        "Sha256":  "f6a6fe6bd3c8ba3261e46e38063667aace11d5860f5025eef9f1a0f5ac01d5ae"
     },
     {
         "Identity":  "FeatureTuning.json",
@@ -114,9 +114,9 @@
     {
         "Identity":  "MicrosoftStore.json",
         "RelativePath":  "MicrosoftStore.json",
-        "Length":  776,
-        "LastWriteTimeUtc":  "2026-06-02T15:31:55.0670389Z",
-        "Sha256":  "db63d0df7dcf904d4247f608626e18cf1406ee3a37504564a2a4d53f531f190e"
+        "Length":  836,
+        "LastWriteTimeUtc":  "2026-06-10T01:58:20.3090206Z",
+        "Sha256":  "cd238af5df90cbebe737682069f6d6dc1349b46e8f16ca1529dddac4376dfcba"
     },
     {
         "Identity":  "NarratorScriptingPayload.json",
@@ -184,9 +184,9 @@
     {
         "Identity":  "SustainabilityConfig.json",
         "RelativePath":  "SustainabilityConfig.json",
-        "Length":  3727,
-        "LastWriteTimeUtc":  "2026-06-08T17:22:54.7581686Z",
-        "Sha256":  "d99b787f5fc9f1a9bb230b3daabaf11487b2a988b76cca6dc37decc82881f60a"
+        "Length":  3731,
+        "LastWriteTimeUtc":  "2026-06-09T17:39:38.9755382Z",
+        "Sha256":  "f91f119a17063ea5d403ba9d365a0cd5976ffeeb4c63d8875baabb82e4a9b46a"
     },
     {
         "Identity":  "TaskManager.json",
@@ -233,9 +233,9 @@
     {
         "Identity":  "WaaSAssessmentSettings.json",
         "RelativePath":  "WaaSAssessmentSettings.json",
-        "Length":  2135,
-        "LastWriteTimeUtc":  "2026-06-09T02:40:59.9068560Z",
-        "Sha256":  "d22e768eb5091b1600da368a84dc923a2c4cc238a555f533eebce0039f9eabfa"
+        "Length":  2142,
+        "LastWriteTimeUtc":  "2026-06-09T17:39:43.5005994Z",
+        "Sha256":  "34e8d71f389a33a3e90f8aa899967c57cd2e4b9037bc41d85d307dbadc9e507d"
     },
     {
         "Identity":  "WhesvcExtendedSettings.json",
